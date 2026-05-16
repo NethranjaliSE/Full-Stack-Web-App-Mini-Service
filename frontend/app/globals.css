@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+body {
+  background-color: #f4f5f9;
+  color: #0a1551;
+}
+
+/*border box rule */
+*,
+::before,
+::after {
+  border-color: currentColor;
+  border-style: solid;
+  border-width: 0;
+}
