@@ -27,12 +27,14 @@ export default function RootLayout({ children }) {
     setAuthError("");
     setLoading(true);
 
+    const baseAuthUrl =process.env.NEXT_PUBLIC_AUTH_URL || "http://localhost:5000/api/auth";
+
     const endpoint =
       modalType === "signup"
-        ? "http://localhost:5000/api/auth/register"
-        : "http://localhost:5000/api/auth/login";
-
-    const payload =
+        ? `${baseAuthUrl}/register`
+        : `${baseAuthUrl}/login`;
+    
+        const payload =
       modalType === "signup"
         ? { name, email, password, role }
         : { email, password };
