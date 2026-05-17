@@ -3,6 +3,13 @@
 A responsive full-stack **MERN & Next.js** service marketplace that connects **Homeowners** looking to post repair or renovation requests with **Tradespeople** ready to fulfill local jobs. Built with automated data validation, role-based authentication, and secure cloud deployment.
 
 ---
+## 📺 Walkthrough & Demo Video
+
+If you want a quick 2-minute overview of the full-stack architecture, role-based login profiles, and backend test executions, check out the video walkthrough link below:
+
+👉 **[Watch the Live Project Demo Video on Google Drive](https://drive.google.com/file/d/1trJo6hHVmf2RTqfVzR1EGAsNf0iFiG38/view?usp=sharing)**
+
+---
 
 ## 📂 Repository Architecture
 
