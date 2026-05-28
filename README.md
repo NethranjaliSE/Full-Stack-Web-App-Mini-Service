@@ -111,7 +111,7 @@ npm install
 
 | Service | Platform | URL |
  
-| Frontend | Vercel | |https://full-stack-web-app-mini-service.vercel.app|
+| Frontend | Vercel | https://full-stack-web-app-mini-service.vercel.app
 | Backend API | Railway 
 | Database | MongoDB Atlas | Cloud-hosted cluster |
 
