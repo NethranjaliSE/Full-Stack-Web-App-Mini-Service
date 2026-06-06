@@ -1,4 +1,4 @@
-# 🚀 GlobalTNA TaskBoard  Full-Stack Service Marketplace
+# 🚀  TaskBoard  Full-Stack Service Marketplace
 
 A responsive full-stack **MERN & Next.js** service marketplace that connects **Homeowners** looking to post repair or renovation requests with **Tradespeople** ready to fulfill local jobs. Built with automated data validation, role-based authentication, and secure cloud deployment.
 
